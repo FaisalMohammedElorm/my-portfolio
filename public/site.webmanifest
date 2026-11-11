@@ -1,0 +1,10 @@
+{
+  "name": "Faisal Mohammed — Portfolio",
+  "short_name": "Faisal Mohammed",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ],
+  "theme_color": "#6366f1",
+  "background_color": "#0b1120",
+  "display": "standalone"
+}
